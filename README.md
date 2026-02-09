@@ -124,9 +124,8 @@ The Power BI dashboard includes:
 
 ## Author
 
-**[Your Name]**
+**[DURGA BHAVANI]**
 Aspiring Data Analyst | SQL | Python | Power BI | Excel
 
 ---
 
-If you want, I can next **customize this README to match your exact dataset (Zomato / COVID / Sales)** and make it **GitHub-ready with badges and project folder structure**, which recruiters really like.
